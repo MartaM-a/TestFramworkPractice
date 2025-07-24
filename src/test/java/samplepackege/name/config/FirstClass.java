@@ -1,5 +1,7 @@
 package samplepackege.name.config;
 
+public class FirstClass{
+
 
 public static void main(String[] args) {
     System.out.println("Hello, World!");
@@ -8,7 +10,8 @@ public static void main(String[] args) {
 public void main() {
 
 
-    /// siala
+}
+
 }
 
 
